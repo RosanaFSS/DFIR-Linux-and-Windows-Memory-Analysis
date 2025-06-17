@@ -6,5 +6,6 @@
 ➜ [Windows Memory & Processes](https://github.com/RosanaFSS/DFIR-Windows-Memory-Analysis/blob/main/3%20.%20Windows%20Memory%20&%20Processes.md)<br>
 ➜ [Windows Memory & User Activity](https://github.com/RosanaFSS/DFIR-Windows-Memory-Analysis/blob/main/4%20.%20Windows%20Memory%20%26%20User%20Activity.md)<br>
 ➜ [Windows Memory & Network](https://github.com/RosanaFSS/DFIR-Windows-Memory-Analysis/blob/main/5%20.%20Windows%20Memory%20%26%20Network.md)<br>
-➜ [Linux Memory Analysis.md](https://github.com/RosanaFSS/DFIR-Linux-and-Windows-Memory-Analysis/blob/main/6.%20Linux%20Memory%20Analysis.md)<br>
-➜ [Supplemental Memory](https://github.com/RosanaFSS/DFIR-Linux-and-Windows-Memory-Analysis/blob/main/7%20.%20Supplemental%20Memory.md)
+➜ [Linux Memory Analysis](https://github.com/RosanaFSS/DFIR-Linux-and-Windows-Memory-Analysis/blob/main/6.%20Linux%20Memory%20Analysis.md)<br>
+➜ [Supplemental Memory](https://github.com/RosanaFSS/DFIR-Linux-and-Windows-Memory-Analysis/blob/main/7%20.%20Supplemental%20Memory.md)<br>
+➜ [Volatility Essentials]
