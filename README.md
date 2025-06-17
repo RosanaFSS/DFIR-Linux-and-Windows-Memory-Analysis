@@ -10,6 +10,4 @@
 ➜ [Supplemental Memory](https://github.com/RosanaFSS/DFIR-Linux-and-Windows-Memory-Analysis/blob/main/7%20.%20Supplemental%20Memory.md)<br>
 ➜ [Volatility Essentials](https://github.com/RosanaFSS/DFIR-Memory-Analysis/blob/main/8%20.%20Volatility%20Essentials.md)<br>
 
-<br>
-
 <h1 align="center"><img width="1200px" src="https://github.com/user-attachments/assets/c64f8996-b31c-4eac-9985-ae7d6f1b86ae"></h1>
